@@ -1,4 +1,4 @@
-//OR gate with fan in=5
+//OR gate with fan in = 5
 CHIP Or5 {
 IN a,b,c,d,e;
 OUT out;
